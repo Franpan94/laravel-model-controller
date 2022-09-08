@@ -1,1 +1,48 @@
 //
+@import 'partials/variables';
+
+header{
+    .ms_bg_head{
+        background-color: $bgnavbar;
+        height: 10vh;
+    }
+
+    a{
+        text-decoration: none;
+        color: $colorlink;
+        font-size: 20px;
+        font-weight: bolder;
+    }
+
+}
+
+main{
+    .ms_bg_page{
+        background-color: $bgmain;
+    }
+
+    .ms_bg_index{
+        background-color: $bgindex;
+        height: 100vh;
+    }
+
+    h1{
+        font-weight: bold;
+        font-size: 50px;
+    }
+}
+
+footer{
+
+    .ms_bg_foot{
+        background-color: $bgnavbar;
+        height: 10vh;
+    }
+
+    span{
+        color: $colorlink;
+        font-size: 20px;
+        font-weight: bolder;
+    }
+
+}

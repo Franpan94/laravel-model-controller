@@ -1,0 +1,32 @@
+header .ms_bg_head {
+  background-color: black;
+  height: 10vh;
+}
+header a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+main .ms_bg_page {
+  background-color: red;
+}
+main .ms_bg_index {
+  background-color: yellowgreen;
+  height: 100vh;
+}
+main h1 {
+  font-weight: bold;
+  font-size: 50px;
+}
+
+footer .ms_bg_foot {
+  background-color: black;
+  height: 10vh;
+}
+footer span {
+  color: white;
+  font-size: 20px;
+  font-weight: bolder;
+}
